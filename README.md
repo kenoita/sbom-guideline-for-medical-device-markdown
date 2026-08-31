@@ -11,7 +11,7 @@
 * [LICENSE.md](LICENSE.md): ライセンスです。
 
 ## 差分
-* [第1版パブコメ版と正式版の差分](https://github.com/kenoita/sbom-guideline-for-medical-device-markdown/compare/main...public-comment-rev-1)
+* [第1版パブコメ版と正式版の差分](https://github.com/kenoita/sbom-guideline-for-medical-device-markdown/compare/public-comment-rev-1...main)
 
 ## コントリビューションについて
 * [issue](https://github.com/kenoita/sbom-guideline-for-medical-device-markdown/issues) または [pull request](https://github.com/kenoita/sbom-guideline-for-medical-device-markdown/pulls) でお知らせください。

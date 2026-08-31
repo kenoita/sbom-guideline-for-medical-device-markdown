@@ -339,7 +339,7 @@ SBOMツールを評価・選定する際には、SBOM導入の目的及び適用
 | 解析可能なデータ形式 | <ul><li>ファイル形式（拡張子別の対応可否）、パッケージマネージャー種別などのサポート範囲</li></ul> |
 | コスト | <ul><li>ライセンス体系や料金体系の定義</li><li>課金方法（解析コード量や開発者数）</li><li>スケールメリットの有無</li></ul> |
 | 対応フォーマット | <ul><li>出力できるフォーマット</li><li>インポートできるフォーマットの種類（SPDX,CycloneDX）</li></ul> |
-| コンポーネント解析方法 | 事前に定めた解析方法（コード解析、ビルド情報解析、バイナリ解析など）を満たした解析方法か<ul><li>解析方法によって正確度が落ちるが、許容可能か</li><li>コードマッチ、スニペットマッチ、バイナリ解析など</li><li>複数の解析が使えるツールもある</li></ul> |
+| コンポーネント解析方法 | <ul><li>事前に定めた解析方法（コード解析、ビルド情報解析、バイナリ解析など）を満たした解析方法か</li><li>解析方法によって正確度が落ちるが、許容可能か</li><li>コードマッチ、スニペットマッチ、バイナリ解析など</li><li>複数の解析が使えるツールもある</li></ul> |
 | サポート体制 | <ul><li>ツール以外の問い合わせが可能なプラン、無償ツールのサポート</li><li>担当者の知識レベルに応じてサポート契約</li></ul> |
 | 他ツールとの連携 | <ul><li>開発～ライフサイクル全般の効率化のための連携（開発環境やビルドツール、コンテナスキャンツール連携など）</li></ul> |
 | 提供形態 | <ul><li>オンプレ版とクラウド版・サーバー維持管理費用も考慮する</li><li>クラウド版は機密性の担保に注意が必要</li></ul> |
@@ -572,7 +572,7 @@ IEC、IEC 81001-5-1:2021 Health software and health IT systems safety, effective
 10. ISO/IEC、IEC/TS 81001-2-2:2025: Health software and health IT systems safety, effectiveness and security Part 2-2: Guidance for the implementation, disclosure and communication of security needs, risks and controls 2025
 11. ISO/IEC、ISO/IEC 5962:2021 Information technology - SPDX® Specification V2.2.1 2021
 12. MITRE、DATA NORMALIZATION CHALLENGES AND MITIGATIONS IN SOFTWARE BILL OF MATERIALS (SBOM) PROCESSING 2024
-13. ENISA SBOMLANDSCAPE ANALYSIS 2025
+13. ENISA SBOM LANDSCAPE ANALYSIS 2025
 14. CISA、Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM) Third Edition 2024
 15. 医療情報システムの安全管理に関するガイドライン(安全管理ガイドライン）第6.0版
 16. 厚生労働省、医療機器のサイバーセキュリティ導入に関する手引書（第2版） 2023
